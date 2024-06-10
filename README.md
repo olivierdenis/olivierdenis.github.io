@@ -7,4 +7,4 @@ EIT presents a novel perspective by positing that informational phenomena underl
 
 ### Also, check out:
 
-- [Entropic Information theory](https://olivierdenis.github.io/Entropic-Information-Theory){:target="_blank"} 
+- [Entropic Information theory](https://olivierdenis.github.io/Entropic-Information-Theory)
