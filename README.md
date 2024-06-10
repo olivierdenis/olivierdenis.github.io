@@ -1,2 +1,2 @@
-# olivierdenis.github.io
 Olivier Denis
+Paternity of Entropic Information Theory
