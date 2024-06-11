@@ -1,5 +1,5 @@
-# Olivier Denis
-## Paternity of Entropic Information Theory
+# Entropic Information Theory
+## Olivier Denis, Paternity of Entropic Information Theory
 
 Olivier Denis' research focuses on exploring the fundamental building blocks of reality through quantum information, unifying concepts such as entropy, dark matter, and wormholes under the Entropic Information Theory (EIT). 
 
