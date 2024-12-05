@@ -11,3 +11,4 @@ EIT presents a novel perspective by positing that informational phenomena underl
 ### Also, check out:
 
 - [Entropic Information Theory](https://olivierdenis.github.io/Entropic-Information-Theory)
+- [Holographic Gravity](https://olivierdenis.github.io/Holographic-Gravity)
