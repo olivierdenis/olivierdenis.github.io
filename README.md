@@ -1,8 +1,6 @@
 # Holographic Computational Universe
 
 ## Olivier Denis, 
-## Paternity of Holographic Computational Universe
-
 
 Olivier Denis' research explores the fundamental informational foundations of the Universe through the Holographic Computational Universe (HCU) framework, connecting quantum information, entropy, holography, irreversibility, spacetime, gravity, black holes, dark matter, dark energy, and wormholes within one conceptual architecture.
 
