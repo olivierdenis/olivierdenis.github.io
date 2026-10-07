@@ -8,4 +8,4 @@ HCU proposes that physical reality emerges from informational organization and i
 
 ### Also, check out:
 
-- [Holographic Gravity Center](https://www.holographicgravity.center)
+- [Holographic Computational Universe](https://doi.org/10.22128/jhap.2026.3202.1180)
